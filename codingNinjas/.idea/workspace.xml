@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36561e9b-ec04-4df5-abec-c8a4bd8d14a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="codingNinjas" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XC6LhcROB6gd9NX7k9sG3bwoBt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="ToolWindowTODO.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.staircase">
+    <configuration name="PairsStar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingNinjas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PairsStar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="checkAB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingNinjas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkAB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingNinjas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="staircase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingNinjas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/staircase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sumOfDigits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingNinjas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sumOfDigits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.PairsStar" />
+      <item itemvalue="Python.fibonacci" />
+      <item itemvalue="Python.sumOfDigits" />
+      <item itemvalue="Python.checkAB" />
+      <item itemvalue="Python.staircase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.staircase" />
+        <item itemvalue="Python.checkAB" />
+        <item itemvalue="Python.PairsStar" />
+        <item itemvalue="Python.fibonacci" />
+        <item itemvalue="Python.PairsStar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36561e9b-ec04-4df5-abec-c8a4bd8d14a7" name="Default Changelist" comment="" />
+      <created>1580537674427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580537674427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="16" key="#PairsStar" timestamp="1581612242364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="16" key="#PairsStar/0.0.1366.728@0.0.1366.728" timestamp="1581612242364" />
+    <state x="275" y="24" key="#Scopes" timestamp="1581613523248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Scopes/0.0.1366.728@0.0.1366.728" timestamp="1581613523248" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581614554501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581614554501" />
+    <state x="511" y="209" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1581612972102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="209" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1366.728@0.0.1366.728" timestamp="1581612972102" />
+    <state x="409" y="16" key="#countZeros" timestamp="1581517453388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="16" key="#countZeros/0.0.1366.728@0.0.1366.728" timestamp="1581517453388" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1581613611194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1581613611194" />
+    <state width="1344" height="155" key="GridCell.Tab.0.bottom" timestamp="1581789999277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581789999277" />
+    <state width="1344" height="155" key="GridCell.Tab.0.center" timestamp="1581789999277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581789999277" />
+    <state width="1344" height="155" key="GridCell.Tab.0.left" timestamp="1581789999277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581789999277" />
+    <state width="1344" height="155" key="GridCell.Tab.0.right" timestamp="1581789999277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581789999277" />
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom" timestamp="1581662889480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581662889480" />
+    <state width="1344" height="216" key="GridCell.Tab.1.center" timestamp="1581662889480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581662889480" />
+    <state width="1344" height="216" key="GridCell.Tab.1.left" timestamp="1581662889480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581662889480" />
+    <state width="1344" height="216" key="GridCell.Tab.1.right" timestamp="1581662889480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581662889480" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1581611984949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581611984949" />
+    <state x="218" y="71" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1581612544817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="218" y="71" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.728@0.0.1366.728" timestamp="1581612544817" />
+    <state x="257" y="102" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581613413932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="257" y="102" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1581613413932" />
+    <state x="324" y="79" width="700" height="530" key="recent.locations.popup" timestamp="1581614076483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="79" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1581614076483" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581614115459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581614115459" />
+  </component>
+</project>
